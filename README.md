@@ -1,8 +1,8 @@
-# HuffmanEncoding
+# Huffman Encoding and Decoding
 Huffman Codes - Compress and Decompress
 # ADS Project 
-Huffman Encoding To Compress Large Files using Best Heap (4 Way Cache Optimized heap in this case) -> code_table.txt, encoded.bin
-Huffman Decoder To UnCompress the encoded files to return the source files
+**Huffman Encoding:** To Compress Large Files using Best Heap (4 Way Cache Optimized heap in this case) -> code_table.txt, encoded.bin <br/>
+**Huffman Decoder:** To UnCompress the encoded files to return the source files
 ## Encoder
 1. Source Files (sample_input_small.txt) => FrequencyTable -> FrequencyMap
 2. FrequencyMap => encoder => HuffmanTree4Way -> HuffmanTree
